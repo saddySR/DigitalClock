@@ -1,0 +1,24 @@
+.container {
+    margin: 30px auto;
+    padding: 50px;
+    background-color: #483434; 
+    width: 65%;
+    border: 4px solid powderblue;
+  }
+
+  .display-4 {
+    font-size: 3rem;
+    background-color: powderblue;
+    padding: 20px;
+    border-radius: 2%;
+    border: 3px solid black;
+  }
+
+  p {
+    color: white;
+    font-weight: bold;
+  }
+
+  #time_new {
+    color: #000272;
+  }
